@@ -4,6 +4,7 @@
 |내용|설명|코드|
 |---|---|---|
 |SOLID 원칙|[SOLID 원칙](https://github.com/Hod0ri/Java_Pattern/blob/main/Document/SOLID.md)|❌|
+|Web 이론|[Web 이론](https://github.com/Hod0ri/Java_Pattern/blob/main/Document/WebTheory.md)|❌|
 |Singleton Pattern|[Singleton Pattern](https://github.com/Hod0ri/Java_Pattern/blob/main/Document/Singleton.md)|[Implement Singleton](https://github.com/Hod0ri/Java_Pattern/tree/main/src/com/design/Singleton)|
 |Adapter Pattern|[Adapter Pattern]()|❌|
 |Proxy Pattern|[Proxy Pattern]()|❌|
