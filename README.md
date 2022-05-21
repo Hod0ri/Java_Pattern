@@ -3,7 +3,7 @@
 
 |내용|설명|코드|
 |---|---|---|
-|SOLID 원칙|[SOLID 원칙]()|❌|
+|SOLID 원칙|[SOLID 원칙](https://github.com/Hod0ri/Java_Pattern/blob/main/Document/SOLID.md)|❌|
 |Singleton Pattern|[Singleton Pattern]()|❌|
 |Adapter Pattern|[Adapter Pattern]()|❌|
 |Proxy Pattern|[Proxy Pattern]()|❌|
